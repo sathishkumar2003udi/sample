@@ -1,4 +1,3 @@
 # sample
 k
 m
-k
